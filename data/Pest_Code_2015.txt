@@ -1,0 +1,490 @@
+Pest Code	Pesticide Name	Test Class	# of Analysis Results
+001	Aldrin	A	10187
+002	Allethrin	O	5938
+007	Biphenyl	I	349
+011	Captan	A	3175
+014	Chlordanes Total	A	1728
+015	Chlorobenzilate	A	1644
+020	Rotenone	I	1644
+024	Diazinon	C	9419
+026	"2,4-D"	G	1644
+028	Dieldrin	A	10187
+032	Diuron	A	8425
+034	Endrin	A	9134
+035	EPN	C	3372
+042	Azinphos methyl	C	9872
+044	Heptachlor	A	9843
+047	Dicofol Total	A	2167
+050	Lindane (BHC gamma)	A	8459
+052	Malathion	C	10098
+055	Methoxychlor Total	A	2774
+057	Parathion methyl	C	8410
+058	MGK-264	F	8710
+065	Parathion ethyl	C	7355
+066	Ethylan	A	1644
+069	Mevinphos Total	C	7752
+070	Piperonyl butoxide	I	9872
+075	Pyrethrins	A	1350
+083	O-Phenylphenol	I	3624
+102	Carbaryl	E	10187
+103	Dioxathion	C	1644
+104	Dodine	F	3805
+105	Fenchlorphos (Ronnel)	A	1644
+107	Ethion	C	7355
+108	Tetradifon	A	7355
+111	Ethoxyquin	I	1413
+114	Chlorpropham	E	8459
+117	Disulfoton	C	5899
+124	Coumaphos	C	6320
+125	Diphenylamine (DPA)	F	8768
+126	Folpet	A	3233
+129	Linuron	A	7676
+130	Trichlorfon	C	3450
+134	DCPA	A	9167
+143	Heptachlor epoxide	A	8427
+144	Dicloran	A	9167
+147	Tecnazene	A	4864
+148	Phorate	C	8369
+149	Simazine	R	7671
+151	Trifluralin	A	9482
+152	Terbacil	A	7175
+153	Bromacil	U	4132
+155	Dicamba	G	1644
+156	Ametryn	R	3381
+157	Thiabendazole	B	9101
+158	Nitrofen	A	1614
+159	Methomyl	E	10187
+160	Chlorpyrifos	C	10158
+161	Pebulate	P	1447
+163	Fonofos	C	4864
+164	Chlorothalonil	A	4037
+165	Phosmet	C	8414
+166	Phosalone	C	8768
+167	Aldicarb	E	6301
+168	Aldicarb sulfone	E	7757
+169	Aldicarb sulfoxide	E	7670
+170	Methamidophos	C	9467
+171	Dimethoate	C	9872
+172	Chlordane trans	A	8459
+173	Chlordane cis	A	8430
+175	Ethoprop	C	7786
+176	Tetrachlorvinphos	C	4521
+177	Fenthion	C	6607
+178	Omethoate	C	9872
+180	Carbofuran	E	10187
+181	Metribuzin	F	7012
+189	Phorate sulfone	C	8412
+190	Phorate sulfoxide	C	8459
+191	Benfluralin	A	3100
+195	Methiocarb	E	4409
+196	Chloroneb	A	1644
+197	Methidathion	C	8855
+200	EPTC	P	3224
+201	Vernolate	P	1447
+202	Carbophenothion	C	3417
+203	Phosphamidon	C	4864
+204	Acephate	C	10109
+205	Terbufos	C	1994
+208	Malathion oxygen analog	C	10187
+209	Dicrotophos	C	3417
+210	Carboxin	F	1964
+216	Disulfoton sulfone	C	7355
+217	DEF (Tribufos)	C	2574
+219	Oxydemeton methyl	C	6686
+222	Permethrin cis	O	5908
+223	Permethrin trans	O	5878
+224	Profenofos	C	7669
+226	Demeton-S sulfone	C	1644
+227	Alachlor	A	4836
+229	Flucythrinate	O	264
+230	Pendimethalin	F	10156
+236	Fenamiphos	C	6607
+237	Phosmet oxygen analog	C	6479
+239	Bensulide	C	4204
+243	Fensulfothion	C	1644
+244	Dialifos	C	1644
+245	Oxydemeton methyl sulfone	C	6624
+247	Phoxim	C	2679
+249	Prometryn	R	3237
+250	Thionazin	C	1644
+253	"Dicofol o,p'"	A	4452
+254	"Dicofol p,p'"	A	6258
+255	Cyromazine	F	4076
+256	Methiocarb sulfoxide	E	3100
+258	Isofenphos	C	1644
+264	Propiconazole	L	8714
+267	Crotoxyphos	C	1644
+271	Fenarimol	A	8416
+275	"Methoxychlor p,p'"	A	3091
+276	Methoxychlor olefin	A	1773
+283	Metolachlor	A	8774
+292	Fluazifop butyl	G	4527
+297	Fluvalinate (as Tau-Fluvalinate)	O	8382
+299	Diclofop methyl	G	1456
+303	Naled	C	2869
+304	Quintozene (PCNB)	A	8654
+305	Atrazine	R	7020
+310	Propham	E	1644
+312	"2,4,5-T"	G	1644
+317	"2,4-DB"	G	1644
+318	MCPA	G	1644
+321	Hexachlorobenzene (HCB)	A	4559
+323	Sulfallate	P	1644
+324	Dichlobenil	T	8768
+330	Diphenamid	F	3220
+338	Dichlorvos (DDVP)	C	9117
+341	Propanil	A	1644
+343	Monocrotophos	C	4126
+349	Oxychlordane	A	1644
+351	Pentachloroaniline (PCA)	A	7774
+352	Mirex	I	1456
+370	Parathion oxygen analog	C	3417
+377	Phenthoate	I	3417
+382	1-Naphthol	E	3786
+385	Promecarb	E	1644
+387	Pentachlorobenzene (PCB)	A	7880
+388	Pentachlorophenyl methyl sulfide	A	4684
+391	Fenitrothion	C	3417
+395	Diazinon oxygen analog	C	8416
+512	3-Hydroxycarbofuran	E	10187
+523	Bromopropylate	A	3091
+529	Vinclozolin	A	8063
+536	Triazophos	C	4559
+537	Oxamyl	E	9479
+539	Permethrin Total	O	4249
+540	Pronamide	A	9872
+547	Azinphos ethyl	C	1644
+553	Pyrazophos	C	4126
+556	Resmethrin	O	6759
+558	Demeton-S	C	1644
+562	Pirimiphos methyl	C	6320
+580	Pirimicarb	E	5899
+587	Pirimiphos-ethyl	C	264
+588	Dichlofluanid	A	685
+593	Procymidone	A	6290
+594	Napropamide	F	8738
+596	Norflurazon	A	9170
+597	Cypermethrin	O	10187
+604	Imazalil	N	8855
+607	Metalaxyl/Mefenoxam	F	9482
+608	Triadimefon	L	5899
+609	Sulprofos	C	3417
+611	Thiophanate methyl	E	1104
+612	Deltamethrin  (includes parent Tralomethrin)	O	9777
+613	Prothiofos	C	4036
+614	Coumaphos oxygen analog	C	3229
+620	MCPB	G	1644
+621	Tri Allate	P	4108
+623	Propargite	I	8728
+624	Tetrahydrophthalimide (THPI)	A	5168
+625	Oxadiazon	A	3070
+626	Iprodione	A	9127
+633	Hexazinone	S	1035
+634	Methiocarb sulfone	E	2943
+636	Propetamphos	C	10187
+637	Isoprocarb	E	1644
+638	Triadimenol	L	5184
+639	Fenbutatin oxide	I	1413
+649	Tolylfluanid	A	1393
+651	Diflubenzuron	A	7015
+656	Dioxacarb	E	1560
+658	Bendiocarb	E	10187
+660	Fenthion sulfone	C	3357
+661	Quinalphos	C	4126
+662	Mecarbam	C	1644
+666	Carbendazim (MBC)	B	8376
+667	Crufomate	C	1644
+675	Propachlor	A	1773
+678	Terbuthylazine	R	4126
+679	Myclobutanil	L	9871
+682	Monolinuron	A	1644
+699	Clofentezine	A	3057
+701	Fluometuron	A	2309
+706	Disulfoton sulfoxide	C	7012
+708	Demeton-O	C	1644
+713	Oxyfluorfen	A	7703
+714	Esfenvalerate	O	4092
+717	Chlorimuron ethyl	K	1644
+719	Clomazone	A	8459
+720	Norflurazon desmethyl	A	8150
+721	Ethalfluralin	A	7308
+722	Etridiazole	A	5483
+723	Formetanate hydrochloride	E	4831
+725	Nitrapyrin	A	1994
+726	Thiobencarb	P	4873
+727	Acifluorfen	A	1644
+728	Bifenox	A	1644
+731	Triclopyr	G	1644
+736	Fluridone	A	8099
+737	Oryzalin	F	7060
+740	Bensulide oxygen analog	C	2560
+745	Fenamiphos sulfone	C	6607
+746	Fenamiphos sulfoxide	C	6607
+750	Quizalofop ethyl	G	2719
+752	Terbufos oxygen analog sulfone	C	1994
+758	Bentazon	F	3783
+769	Azinphos methyl oxygen analog	C	6935
+772	Chlorpyrifos oxygen analog	C	9825
+777	Fenoxaprop ethyl	G	1959
+779	Parathion methyl oxygen analog	C	5194
+780	Tebuthiuron	F	3417
+781	Cyfluthrin	O	10149
+783	Butylate	P	1644
+786	Desmedipham	E	350
+793	TCMTB	F	1724
+797	Fluroxypyr	G	1644
+798	Haloxyfop	G	1644
+804	Tricyclazole	I	1644
+807	Acetochlor	A	4519
+808	Fenpropathrin	O	10153
+811	Fenoxycarb	E	1644
+832	Benazolin	I	1644
+833	Prochloraz	N	3091
+840	Fenuron	F	1644
+841	Heptenophos	C	1644
+843	Isoproturon	A	1644
+848	Phenothrin	O	10187
+850	Bitertanol	L	3796
+856	Fenobucarb (BPMC)	E	1644
+857	Butocarboxim	E	2482
+858	Ethiofencarb	E	4845
+859	Lenacil	U	3091
+860	Metolcarb	E	1644
+872	Bupirimate	V	4909
+873	Pirimicarb desmethyl	E	4126
+877	Cymoxanil	F	7720
+886	Fenpropimorph	W	4547
+900	Endosulfan I	A	9841
+901	Endosulfan II	A	9842
+902	Endosulfan sulfate	A	9764
+903	BHC alpha	A	9872
+904	BHC beta	A	7064
+905	BHC delta	A	1644
+906	"DDT p,p'"	A	8702
+907	"DDT o,p'"	A	5145
+908	"DDD p,p'"	A	8774
+909	"DDD o,p'"	A	5188
+910	"DDE p,p'"	A	10187
+911	"DDE o,p'"	A	4513
+915	Triforine	A	3100
+928	Phorate oxygen analog	C	5820
+930	Bifenthrin	O	10168
+943	Thiodicarb	E	3180
+945	Ethofumesate	C	2679
+947	Tetramethrin	O	8151
+948	Abamectin	D	3214
+950	Flusilazole	L	6290
+951	Phorate oxygen analog sulfoxide	C	3783
+953	Cadusafos	C	1644
+954	Hexaconazole	L	3091
+956	Penconazole	L	4804
+963	Terbufos sulfone	C	3767
+966	Phorate oxygen analog sulfone	C	3783
+967	Imidacloprid	A	10187
+A03	Acrinathrin	O	783
+A05	Benoxacor	A	7327
+A15	Chlorethoxyfos	C	1994
+A22	Cyproconazole	L	4420
+A25	Dichlorprop	G	1644
+A30	Fenbuconazole	L	8465
+A38	Lactofen	A	1959
+A40	Leptophos oxygen analog	C	1644
+A42	Mecoprop (MCPP)	G	1644
+A43	Dichlormid	F	1994
+A46	Oxadixyl	F	4864
+A47	Oxamyl oxime	E	7001
+A48	Paclobutrazol	I	4879
+A53	Profluralin	A	1644
+A58	Tebuconazole	L	10187
+A60	Terbufos oxygen analog	C	1304
+A61	Triflumizole	L	8099
+A82	Fipronil	A	5899
+A84	Fipronil sulfone (MB46136)	A	3100
+AAK	Chlorfenvinphos total	C	3417
+AAU	Flumetsulam	A	1644
+AAV	Flumiclorac pentyl	A	1644
+AAX	Ethion mono oxon	C	4873
+AAY	Sulfentrazone	I	4491
+ABB	Spinosad	I	7019
+ABC	Spinosad A	I	2491
+ABD	Spinosad D	I	1035
+ABF	Pymetrozine	F	5110
+ABG	Tebufenozide	F	8855
+ACB	Imazapyr	J	1644
+ACC	Imazaquin	J	1644
+ACD	Imazethapyr	J	2878
+ACF	Methomyl oxime	E	87
+ACM	Nicosulfuron	K	1994
+ACS	Tribenuron methyl	K	1644
+ACV	Methoprene	I	2519
+ADC	Prallethrin	O	6557
+ADD	Dimethenamid	F	6573
+ADE	Esfenvalerate+Fenvalerate Total	O	6095
+ADG	Indoxacarb	I	8414
+ADH	Cyphenothrin	O	6936
+ADI	Etofenprox	O	6951
+ADK	Imiprothrin	O	8052
+ADR	Triticonazole	L	3441
+AEC	Hydroprene	I	6579
+AEG	Prosulfuron	K	1994
+AEH	Halosulfuron methyl	K	3091
+AEJ	Resmethrin cis	O	3229
+AEK	Resmethrin trans	O	3229
+AEL	"Cyhalothrin, Total (Cyhalothrin-L + R157836 epimer)"	O	8459
+AEM	"Cyhalothrin, Lambda"	O	1728
+AEP	Clothianidin	F	10181
+AEQ	Thifensulfuron methyl	K	1644
+AER	Clethodim	I	4836
+AES	Methoxyfenozide	I	10187
+AEV	Sethoxydim	I	6935
+AEW	Famoxadone	F	6241
+AFC	Heptachlor epoxide cis	A	1413
+AFF	Flumioxazin	A	8268
+AFK	Halosulfuron	K	2139
+AFM	Flutriafol	L	5178
+AFN	Diniconazole	L	1584
+AFO	Dinotefuran	A	9825
+AFS	Fenpyroximate	F	7733
+AFU	Propamocarb hydrochloride	E	4357
+AFW	Spiromesifen Total (parent + enol metabolite)	I	1045
+AFX	Novaluron	A	8701
+AFY	Diflufenzopyr	K	350
+AGA	Cyazofamid	A	6264
+AGB	Pyraflufen ethyl	I	4513
+AGE	Iprovalicarb	E	3387
+AGF	Mepanipyrim	V	1644
+AGG	Flonicamid	A	9164
+AGH	Emamectin benzoate	D	3934
+AGJ	Fluoxastrobin	F	7003
+AGL	Isoxadifen ethyl	F	1994
+AGM	Fluthiacet methyl	A	1994
+AGP	Benthiavalicarb isopropyl	E	1035
+AGT	Spiromesifen	I	5355
+AGW	Chlorantraniliprole	I	9483
+AGX	Mandipropamid	N	9167
+AGY	Spinetoram	I	9479
+AGZ	Carbophenothion methyl	C	1369
+AHF	Imidacloprid urea	A	1035
+AHG	Flufenoxuron	I	4421
+AHJ	Prothioconazole	L	2394
+AHL	Tepraloxydim	I	2748
+AHM	Spirotetramat	I	6681
+AHN	Disulfoton oxygen analog	C	5368
+AHQ	Avermectin	D	315
+AHS	Flubendiamide	I	5617
+AHT	Fluopicolide	A	8805
+AHU	Pyridalyl	I	1637
+AHV	Disulfoton sulfone oxygen analog	C	3805
+AHW	Disulfoton sulfoxide oxygen analog	C	3825
+AHX	Metconazole	L	2222
+AHY	Ipconazole	L	2973
+AHZ	Saflufenacil	U	6702
+AJA	Mesotrione	I	1056
+AJF	Rimsulfuron	K	4229
+AJG	Trifloxysulfuron	K	1807
+AJJ	Uniconazole	L	1494
+AJK	Emamectin	D	1644
+AJP	Indaziflam	I	4600
+AJU	DMST (4-dimethylaminosulphotosluidide)	A	1644
+AJV	Lufenuron	A	3462
+AJW	Metaflumizone	A	2766
+AJX	Pencycuron	I	4126
+AJY	Spiroxamine	I	6231
+AJZ	Tebufenpyrad	A	4909
+AKA	Teflubenzuron	A	2679
+AKC	Ametoctradin	F	4521
+AKD	Penthiopyrad	A	6626
+AKG	Fluopyram	A	3719
+AKH	Mefenpyr diethyl	I	1644
+AKN	Butocarboxim sulfone	E	1035
+AKO	Butocarboxim sulfoxide	E	1035
+AKP	Fenthion sulfoxide	C	3327
+AKQ	Fenthion oxygen analog sulfone	C	1743
+AKR	Fenthion oxygen analog sulfoxide	C	1035
+AKS	Acequinocyl	A	1376
+AKU	Cyflufenamid	I	1644
+AKW	Fluxapyroxad	A	6249
+AKZ	Penflufen	A	2748
+ALA	Picoxystrobin	F	1994
+ALB	Sedaxane	A	1644
+ALE	Isocarbophos	C	1644
+ALH	BHC epsilon	A	1369
+ALK	Propaquizafop	G	1644
+ALP	Cloransulam Methyl	A	1644
+ALR	Flufenpyr ethyl	A	1574
+ALS	Sulfoxaflor	F	3504
+ALT	Terbufos sulfoxide	C	1994
+ALU	Diclosulam	A	1959
+ALV	Spiromesifen alcohol	I	1644
+ALW	Fluazifop	G	1644
+ALX	Fomesafen	F	1644
+ALY	Pyraflufen	I	1644
+ALZ	Quizalofop	G	1644
+AMB	Cyantraniliprole	I	3854
+AMC	Cyflumetofen	A	1731
+AMD	Cyprosulfamide	I	1965
+AME	Ethiprole	A	1644
+AMF	Fenpropidin	I	1644
+AMG	Fenpyrazamine	A	2352
+AMH	Flazasulfuron	K	351
+AMK	Imazosulfuron	K	1644
+AMM	Proquinazid	I	1644
+AMO	Pyroxasulfone	I	1907
+AMP	Terbufos oxygen analog sulfoxide	C	350
+AMQ	Topramezone	I	350
+AMR	Furathiocarb	E	1085
+AMS	Penoxsulam	A	1085
+AMX	Ethiofencarb Sulfone	E	1644
+AMY	Ethiofencarb Sulfoxide	E	1644
+AMZ	Furalaxyl	F	1644
+ANA	Isofenphos methyl	C	1644
+ANB	Profoxydim	I	1644
+ANC	Tolfenpyrad	I	1644
+AND	Propamocarb	E	1644
+ANE	Flupyradifurone	I	351
+ANF	Metrafenone	I	264
+B07	Metaldehyde	I	2679
+B09	Fosthiazate	C	1644
+B10	Hexythiazox	A	8099
+B12	Thiazopyr	A	1807
+B13	Chlorfenapyr	A	10187
+B16	Pyrimethanil	V	9872
+B20	Bromuconazole	L	1644
+B21	Carfentrazone ethyl	A	10187
+B22	Cyprodinil	V	8069
+B23	Fludioxonil	A	10184
+B24	Pyriproxyfen	F	10187
+B26	Tefluthrin	O	10187
+B28	5-Hydroxythiabendazole	B	1644
+B30	Flufenacet	A	1994
+B32	Forchlorfenuron	A	4504
+B41	Fenhexamid	I	9510
+B42	Kresoxim-methyl	I	8425
+B43	Thiamethoxam	A	10187
+B44	Zoxamide	A	2748
+B45	Benalaxyl	F	1644
+B46	Clopyralid	G	1644
+B48	Azoxystrobin	F	9482
+B51	Acibenzolar S methyl	F	5368
+B52	Buprofezin	F	9872
+B53	Epoxiconazole	L	1644
+B54	Fluazinam	A	2352
+B56	Pyridaben	A	6716
+B57	Quinoxyfen	I	7027
+B58	Difenoconazole	L	9872
+B61	Pyraclostrobin	F	10187
+B62	Diethofencarb	F	1644
+B63	Flutolanil	A	3415
+B64	Fenamidone	A	8805
+B68	Thiacloprid	A	8060
+B70	Tolclofos methyl	A	1644
+B72	Tetraconazole	L	5866
+B73	Fenazaquin	I	3651
+B75	Boscalid	A	10186
+B77	Dimethomorph	W	8462
+B78	Fluquinconazole	L	3100
+B79	Trifloxystrobin	F	10187
+B80	Acetamiprid	A	10187
+B82	Bifenazate	F	3387
+B84	Etoxazole	F	8837
+B85	Spirodiclofen	I	7049
