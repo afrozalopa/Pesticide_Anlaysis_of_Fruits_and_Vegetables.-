@@ -1,0 +1,2 @@
+# Pesticide-Anlaysis-of-Fruits-and-Vegetables-in-teh-U.S.-
+Data sets from the United States Department of Agriculture's Pesticide Data Program (PDP) was analyzed to discern any trends with regards to commodities labeled as "Organic" as compared to those traditionally farmed. This analysis is for data collected for calendar year 2015 (2,333,910 observations and 34 features) and includes pesticide residue data for 10,186 fruits and vegetables
