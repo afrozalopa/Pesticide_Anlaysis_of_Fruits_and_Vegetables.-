@@ -1,0 +1,21 @@
+Commodity Code	Commodity Name	# of Samples Analyzed
+AP	Apples	708
+CB	"Sweet Corn, Fresh"	468
+CH	Cherries	232
+CS	"Sweet Corn, Frozen"	65
+CU	Cucumbers	378
+CZ	"Cherries, Frozen"	453
+GB	Green Beans	754
+GF	Grapefruit	177
+GR	Grapes	708
+LT	Lettuce	378
+NE	Nectarines	578
+OG	Oranges	707
+PB	Peanut Butter	315
+PC	Peaches	362
+PE	Pears	705
+PO	Potatoes	707
+SP	Spinach	708
+ST	Strawberries	706
+TO	Tomatoes	708
+WM	Watermelon	370
