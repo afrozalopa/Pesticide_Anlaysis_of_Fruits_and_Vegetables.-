@@ -1,3 +1,7 @@
 # Pesticide Anlaysis of Fruits and Vegetables in the U.S.
-Data sets from the United States Department of Agriculture's Pesticide Data Program (PDP) was analyzed to discern any trends with regards to commodities labeled as "Organic" as compared to those traditionally farmed. This analysis is for data collected for calendar year 2015 (2,333,910 observations and 34 features) and includes pesticide residue data for 10,186 fruits and vegetables.
-This analysis seeks to answer the questions of whether there is a significant difference in the concentration of pesticides detected for Organic versus traditionally farmed commodities.    
+
+Technology Utilized: Python | Pandas,| Numpy | Matplotlib | SQL| Seaborn
+
+Evaluated USDA Pesticide Data Program 2015 data set to determine any statistically relevant relationships between fruits and vegetables bearing the “Organic” label and those that are traditionally farmed.
+-Cleaned data set with 2,333,910 observations and 34 features; 10,186 fruits and vegetables
+-In most cases, no statistical difference in concentration of pesticides found in “Organic” vs. traditionally farmed commodities
